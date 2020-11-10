@@ -2,3 +2,6 @@
 /public/build/
 
 .DS_Store
+
+# do not commit file used to provide environment variables
+environment.js
